@@ -1,0 +1,63 @@
+<?php
+
+return [
+    'login' => 'Login',
+    'register' => 'Create New Account',
+    'track_parcel' => 'Track Your Parcel',
+    'parcel_id' => 'Parcel ID',
+    'track' => 'Track',
+    'download_app' => 'Download App',
+
+    'merchants_using' => 'Using Our Delivery Service',
+    'merchants_count_start' => 'More than',
+    'merchants_count' => '30 Thousand',
+    'merchants_count_end' => 'Merchants',
+
+    'delivery_coverage' => '64 districts & 492 upazilas delivery',
+    'product_collection' => 'Product collection from your address (Dhaka, Chittagong, Sylhet, Narayanganj, Gazipur & Savar)',
+    'online_tracking' => 'Online Parcel Tracking',
+    'no_return_charge' => 'No Return Charge',
+    'dedicated_sales_rep' => 'Dedicated Sales Representative for your needs',
+    'real_time_transfer' => 'Real-time Transfer',
+
+    'hub_addresses_title' => 'All Our Hub Addresses in Dhaka',
+
+    'faq_title' => 'Your Questions',
+    'faq_1_q' => '1) Where do you deliver?',
+    'faq_1_a' => '- We deliver to all 64 districts of the country.',
+    'faq_2_q' => '2) How will product collection work?',
+    'faq_2_a' => '- Our collector will collect products from your given collection point. Currently we collect from (Dhaka, Chittagong, Sylhet, Narayanganj, Gazipur & Savar).',
+    'faq_3_q' => '3) Do you provide home delivery or do customers need to come to the counter?',
+    'faq_3_a' => '- We provide home delivery everywhere.',
+    'more_questions' => 'More Questions >>',
+
+    'about_us' => 'About Us',
+    'why_choose_us' => 'Why Choose Us',
+    'package_tracking' => 'Package Tracking',
+    'logistics_services' => 'Logistics Services',
+    'service_areas' => 'Service Areas',
+    'services_and_express' => 'Services & Express',
+    'terms_and_conditions' => 'Terms & Conditions',
+    'cash_on_delivery' => 'Cash on Delivery System',
+    'home_delivery' => 'Home Delivery Service',
+    'local_delivery' => 'Local Delivery Service',
+    'online_parcel_delivery' => 'Online Parcel Delivery Service',
+    'ecommerce_courier' => 'E-commerce Courier Service',
+    'contact' => 'Contact',
+    'footer_download_app' => 'Download App',
+
+    'eagle_express_blog' => 'Eagle Express Blog:',
+    'classified_site' => 'Classified Site',
+    'delivery_bondhu' => 'Delivery Bondhu',
+    'ajkerdeal' => 'Ajkerdeal',
+    'eagle_express_limited_blog' => 'Eagle Express Limited Blog',
+    'eagle_express_blog_partner' => 'Eagle Express Blog Partner',
+    'ajkerdeal_blog' => 'Ajkerdeal Blog',
+    'deliverytiger_blog' => 'Deliverytiger Blog',
+    'technical_support' => 'All Technical Support By:',
+    'elite_design' => 'Elite Design',
+
+    'sameday' => 'Same Day',
+    'nextday' => 'Next Day',
+    'express' => 'Express',
+];
