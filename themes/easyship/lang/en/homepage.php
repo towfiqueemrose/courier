@@ -44,7 +44,7 @@ return [
     'online_parcel_delivery' => 'Online Parcel Delivery Service',
     'ecommerce_courier' => 'E-commerce Courier Service',
     'contact' => 'Contact',
-    'footer_download_app' => 'Download App',
+    'footer_download_app' => 'Follow Us On',
 
     'eagle_express_blog' => 'Eagle Express Blog:',
     'classified_site' => 'Classified Site',

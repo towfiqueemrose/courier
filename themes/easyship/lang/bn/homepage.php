@@ -44,7 +44,7 @@ return [
     'online_parcel_delivery' => 'অনলাইন পার্সেল ডেলিভারি সার্ভিস',
     'ecommerce_courier' => 'ই-কমার্স কুরিয়ার সার্ভিস',
     'contact' => 'যোগাযোগ',
-    'footer_download_app' => 'ডাউনলোড অ্যাপ',
+    'footer_download_app' => 'Follow Us On',
 
     'eagle_express_blog' => 'ঈগল এক্সপ্রেস ব্লগ:',
     'classified_site' => 'ক্লাসিফাইড সাইট',
@@ -55,7 +55,7 @@ return [
     'ajkerdeal_blog' => 'আজকেরডিল ব্লগ',
     'deliverytiger_blog' => 'ডেলিভারিটাইগার ব্লগ',
     'technical_support' => 'সফটওয়্যারের সকল কারিগরি সহযোগিতায়ঃ',
-    'elite_design' => 'এলিট ডিজাইন',
+    'elite_design' => 'টিআইসি লিমিটেড',
 
     'sameday' => 'Same Day',
     'nextday' => 'Next Day',

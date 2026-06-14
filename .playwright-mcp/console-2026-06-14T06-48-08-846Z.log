@@ -1,0 +1,2 @@
+[     197ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at http://127.0.0.1:8000/ecommerce-courier-service/index.html:301:15
