@@ -1,0 +1,334 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  @font-face {
+      font-family: SolaimanLipi;
+      /* src: url(assets/fonts/ProductSans-Regular.ttf); */
+      src: url(fonts/SolaimanLipi.ttf);
+     }
+
+     .w3-content {
+        max-width: 980px;
+    }
+    
+    .w3-display-container {
+        position: relative;
+    }
+    .slideshow img {
+        border-style: none;
+    }
+    .mySlides {display:none;}
+    
+    
+    
+    /*pops-up*/
+
+
+    #mask {
+        position:absolute;
+        left:0;
+        top:0;
+        z-index:9000;
+        background-color:#26262c;
+        display:none;
+      }  
+      #boxes .window {
+        position:absolute;
+        left:0;
+        top:0;
+        width:440px;
+        height:850px;
+        display:none;
+        z-index:9999;
+        padding:20px;
+        border-radius: 5px;
+        text-align: center;
+      }
+      #boxes #dialog {
+        width:450px; 
+        height:auto;
+        padding: 10px 10px 10px 10px;
+        background-color:#ffffff;
+        font-size: 15pt;
+      }
+      
+      .agree:hover{
+        background-color: #D1D1D1;
+      }
+      .popupoption:hover{
+       background-color:#D1D1D1;
+       color: green;
+      }
+      .popupoption2:hover{
+       color: red;
+      } 
+
+    
+      /*pops-up*/
+  .row::after {
+    content: "";
+    clear: both;
+    display: block;
+  }
+  
+  [class*="col-"] {
+    float: left;
+    padding: 15px;
+  }
+  
+  html {
+    font-family: "Lucida Sans", sans-serif;
+  }
+  body{
+      min-width: 320px;
+      max-width: 768px;
+      margin: 0;
+      font-family:SolaimanLipi;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      text-align: center;
+  }
+  button{
+      font-family:SolaimanLipi; 
+  }
+  .header {
+    background-color: #0b682a;
+    color: #ffffff;
+    padding: 1px;
+    margin:-8px;
+    margin-right: -3px;
+  }
+  .header .img-fluid{
+  
+      max-width: 100%;
+      height: 90px;
+      margin-left: 0px;
+  }
+
+  .header_other{
+    padding: 1px;
+    margin:-8px;
+    margin-right: -3px;
+}
+.header_other .img-fluid{
+    max-width: 100%;
+    height: 72px;
+    margin-left: 0px;
+}
+.header_other .register{
+    border-style: solid;
+    border-color: green;
+    padding: 17px;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: red;
+    border-radius: 32px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.header_other .login{
+  width: 145px;height: 37px;border-radius: 37px;margin-top: 23px;color: red;font-size: larger;background-color: white;float: right;padding-top: 5px;
+}
+  
+  
+  .track .img-fluid{
+      margin-left: -0px; 
+      margin-bottom: -13px;
+      margin-top: -8px;
+      width: 86%;
+  }
+  
+  
+  
+  .content {
+    
+    display: none;
+    overflow: hidden;
+    
+  }
+  .dt-services p{
+      margin-top: -3px;
+  }
+  
+  .footer {
+    background-color: #05824c;
+    color: #ffffff;
+    
+    font-size: 12px;
+    padding: 15px;
+    margin: -8px;
+    margin-top: 10px;
+    
+  }
+  .footer a{
+      color: white;
+      font-size: large;
+      text-decoration: none;
+  }
+  .footer img{
+      width: 14%;
+  }
+  .img-fluid {
+      max-width: 100%;
+      height: auto;
+      margin-left: -20px;
+  }
+  .container{
+  
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+      margin-top: 20px;
+  }
+  .header .login{
+      width: 145px;height: 37px;border-radius: 37px;margin-top: 23px;color: red;font-size: larger;background-color: white;float: right;padding-top: 5px;
+  }
+  
+  .track{
+      width: 135px;height: 45px;border-radius: 6px;background-color: #0b682a;color: white;float: right;margin-top: 11px;padding-top: 7px;
+  }
+  .hub button{
+      width: 180px;height: 50px;border-radius: 0px 21px 0px 0px;background-color: #0b682a;color: white;
+  }
+
+  .w3-modal {
+    z-index: 3;
+    display: none;
+    padding-top: 100px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.w3-modal-content {
+    margin: auto;
+    background-color: #fff;
+    position: relative;
+    padding: 0;
+    outline: 0;
+    width: 600px;
+}
+.w3-animate-top {
+    position: relative;
+    animation: animatetop 0.4s;
+}
+.w3-card-4,
+.w3-hover-shadow:hover {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.w3-container:after,
+.w3-container:before
+ {
+    content: "";
+    display: table;
+    clear: both;
+}
+.w3-container
+{
+    padding: 0.01em 16px;
+}
+.w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.w3-display-topright {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.w3-teal,
+.w3-hover-teal:hover {
+    color: #fff !important;
+    background-color: #009688 !important;
+}
+
+  
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+  
+  
+  @media (min-width: 576px) {
+      .container{
+          max-width: 540px;
+      }
+      
+  }
+  @media (min-width: 380px) {
+      .footer img{
+          width: 10%;
+      }
+      
+  }
+  @media (min-width: 768px) {
+      .container{
+          max-width: 720px;
+      }
+      
+      
+      .header2 button{
+          width: 210px;
+          height: 60px;
+          margin-top: 25px;
+      }
+  }
+  @media (max-width: 433px) {
+      .hub button{
+          width: 170px;
+      }
+  }
+  @media (max-width: 395px) {
+      .hub button{
+          width: 130px;
+          height: 60px;
+  
+      }
+  }
+  @media (max-width: 600px) {
+    .w3-modal-content {
+        margin: 0 10px;
+        width: auto !important;
+    }
+    .w3-modal {
+        padding-top: 30px;
+    }
+}
+@media (max-width: 768px) {
+    .w3-modal-content {
+        width: 500px;
+    }
+    .w3-modal {
+        padding-top: 50px;
+    }
+}
