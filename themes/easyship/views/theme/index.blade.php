@@ -188,11 +188,7 @@
 
 
                 <div class="container">
-                    <div class="row visible-lg hidden-sm hidden-xs hidden-md " style="display: flex;margin-top: 20px;">
-                        <div class="center-block col-12 col-lg-12 col-md-12 col-sm-12 col-xs-12" style=" text-align:center;">
-                            <img style="text-align: center;" src="myimages/dt/newlogin/number-pc.jpg">
-                        </div>
-                    </div>
+
 
                 </div>
 
