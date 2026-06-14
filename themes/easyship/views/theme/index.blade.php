@@ -304,7 +304,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             বিএসইসি ভবন,লেভেল ৯,১০২ কাজি নজরুল ইসলাম এভিনিউ, কাওরান বাজার <br>
-                                                            <a href="tel: +8801775457008">+8801775457008</a>
+                                                            <a href="tel: +8809648156713">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.751601826500373,%2090.3931737974252/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -331,7 +331,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হাউস-২৬,লেন-৫,ব্লক- এ,সেকশন-৬, মিরপুর-১০, ঢাকা-১২১৬ <br>
-                                                            <a href="tel:01711304041">+8801775457008</a>
+                                                            <a href="tel:01711304041">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.806737,90.3690042/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -358,7 +358,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হাউজঃ মুন্সি বাড়ি, নয়ার হাট  হাই স্কুল সংলগ্ন,বড় বাড়ি ,লালমনির হাট-5500 , বাংলাদেশ<br>
-                                                            <a href="tel:01575012737">+8801775457008</a>
+                                                            <a href="tel:01575012737">+8809648156713</a>
 
                                                         </div>
                                                         <a href="https://goo.gl/maps/RXsBR2Q8YfboiKsD6" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
@@ -387,7 +387,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ৪৮৭/সি,সাথী ইলমা আবাসিক এলাকা, রোড ৩, খিলগাও, ঢাকা-১২১৯  <br>
-                                                            <a href="tel:01862391615">+8801775457008</a>
+                                                            <a href="tel:01862391615">+8809648156713</a>
 
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.757520205463198,%2090.42108654193702/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
@@ -417,7 +417,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হোল্ডিং নংঃ ২৮,রোড - শিরিষ দাস লেন, ঢাকা-১১০০  <br>
-                                                            <a href="tel:01726869472">+8801775457008</a>
+                                                            <a href="tel:01726869472">+8809648156713</a>
 
                                                         </div>
                                                         <a href="https://maps.google.com/?q=23.72203762084318,%2090.38119578230513" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
@@ -447,7 +447,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হাউজ ১৭৬৮,উত্তর মোল্লাপাড়া,রাজ্জাক টাওয়ার এর পাশে, দক্ষিনখান ,ঢাকা  <br>
-                                                            <a href="tel:01748806258">+8801775457008</a>
+                                                            <a href="tel:01748806258">+8809648156713</a>
 
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.867359668645573,%2090.42386106684515/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
@@ -476,7 +476,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ৭১ সারোয়ার এভিনিউ, রোড-২১/এ, সেকশন-১৪, উত্তরা, ঢাকা <br>
-                                                            <a href="tel:01829789121">+8801775457008</a>
+                                                            <a href="tel:01829789121">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.800288413166918,%2090.37842948392988/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -528,7 +528,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ইসলামপুর-আদিল সিকিউরিটিস লি. শাহজাদা মিয়া লেন (জনতা ব্যাঙ্কের কাছে) <br>
-                                                            <a href="tel:+8801775457008">+8801775457008</a>
+                                                            <a href="tel:+8809648156713">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.7102796,90.4037035/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -557,7 +557,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ২৫০/৩ আব্বাস উদ্দিন রোড, যাত্রাবাড়ি, ঢাকা ১২০৪ <br>
-                                                            <a href="tel:01961833944">+8801775457008</a>
+                                                            <a href="tel:01961833944">+8809648156713</a>
                                                         </div>
                                                         <a href="https://www.google.com/maps/place/Abbas+Uddin+Rd,+Dhaka/@23.7044801,90.432168,17z/data=!3m1!4b1!4m5!3m4!1s0x3755b9c8a2e5e6fd:0xb8c4a8c9b701650c!8m2!3d23.7044752!4d90.4343567" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -586,7 +586,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             নিউ সিটি কমপ্লেক্স.লেভেল-৩, নিউ মার্কেট, ঢাকা-১২০৫ <br>
-                                                            <a href="tel:01836800444">+8801775457008</a>
+                                                            <a href="tel:01836800444">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.7336862,90.3795507/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -618,7 +618,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ৩৬/২ কাকরাইল, ঢাকা ১০০০<br>
-                                                            <a href="tel:+8801775457008">+8801775457008</a>
+                                                            <a href="tel:+8809648156713">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.7404869551853,%2090.41111201221024/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -646,7 +646,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             মুক্ত বাংলা শপিং কমপ্লেক্স, মিরপুর-১, লেভেল-৫, দোকান নাম্বার-৫৩ এবং ৫৪ <br>
-                                                            <a href="tel:01648236165">+8801775457008</a>
+                                                            <a href="tel:01648236165">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.7991084,90.3528902/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -675,7 +675,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             চ-৪৪০, গুপিপাড়া,  উত্তর বাড্ডা, ঢাকা-১২১২<br>
-                                                            <a href="01818309920.html">+8801775457008</a>
+                                                            <a href="01818309920.html">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.79219227927205,%2090.4249100746908/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -703,7 +703,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হোল্ডিং# Je/P/J-25, গাউসুল আজম রোড, মহাখালী <br>
-                                                            <a href="01979328193.html">+8801775457008</a>
+                                                            <a href="01979328193.html">+8809648156713</a>
                                                         </div>
                                                         <a href="https://www.google.com/maps/search/গাউসুল+আজম+রোড,+মহাখালী+/@23.7821827,90.4085126,14.95z" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -731,7 +731,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             খন্দকার সাহেবের বাসা, অধ্যাপক হামিদুর রহমান কমিউনিটি সেন্টার,<BR> চাটগাঁও, জিঞ্জিরা, কেরানীগঞ্জ, ঢাকা 
-                                                            <a href="01832550044.html">+8801775457008</a>
+                                                            <a href="01832550044.html">+8809648156713</a>
                                                         </div>
                                                         <a href="#" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -789,7 +789,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             এ কে আর্কেড, লেভেল-২, ৭৭১ শেখ মুজিব রোড, চৌমহনি (বিডিজবস এর অফিস) <br>
-                                                            <a href="tel:01813932456">+8801775457008</a>
+                                                            <a href="tel:01813932456">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@22.3327427,91.8127681/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -819,7 +819,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হাউজ-১৮৭,বনরুপা রোড গলি,গাজীপুর চৌরাস্তা,জয়দেবপুর রোড,সিয়াম সিএনজি পাম্প এর বিপরীতে <br>
-                                                            <a href="tel:01685748679">+8801775457008</a>
+                                                            <a href="tel:01685748679">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.98803,90.3836164/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -877,7 +877,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হাউজ-৬৯,হোল্ডিং নংঃ ১১/২৬,ডোগাই, পশ্চিম পাড়া,আইডিয়াল রোড, ডেমরা <br>
-                                                            <a href="tel:01601611228">+8801775457008</a>
+                                                            <a href="tel:01601611228">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.709949403139902,%2090.47363171036373/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -906,7 +906,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             আর.বি.  সিলেট মিউনিসিপালিটি জে এল# ৯১, সিলেট সদর, সিলেট-৩১০০ <br>
-                                                            <a href="tel:01968878179">+8801775457008</a>
+                                                            <a href="tel:01968878179">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@24.8949,91.8687/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -958,7 +958,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ২ কেবিএ এভিনিউ,শিব বাড়ি(টাইগার গার্ডেনের পাশে)  <br>
-                                                            <a href="tel:01952437097">+8801775457008</a>
+                                                            <a href="tel:01952437097">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@22.8456,89.5403/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -985,7 +985,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             হোটেল সি কুইন(নিচ তলা),ঝাউ তলা,কক্সবাজার  <br>
-                                                            <a href="tel:01885286275">+8801775457008</a>
+                                                            <a href="tel:01885286275">+8809648156713</a>
 
                                                         </div>
                                                         <a href="https://maps.google.com?q=@21.443455366062032,91.97141129128495/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
@@ -1014,7 +1014,7 @@
                                                     <div class="modal-body">
                                                         <div class="col-xs-9 text-center" style="padding: 0;margin: 0%;">
                                                             ৭০/৩, নিউ চাষারা, জামতলা, নারায়ণগঞ্জ ১৪০০ ফিলিং স্টেশন, নারায়ণগঞ্জ <br>
-                                                            <a href="tel:01675823737">+8801775457008</a>
+                                                            <a href="tel:01675823737">+8809648156713</a>
                                                         </div>
                                                         <a href="https://maps.google.com?q=@23.6226461,90.4953936/" class="col-xs-3" style="padding: 0; color: #04834A;font-size: 14px;">
                                                             <img src="static.ajkerdeal.com/images/dt/newlogin/dt-locate.png">
@@ -1176,7 +1176,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 phn" style="padding: 0% 10px;margin-top: 5px;font-size: 24px;">
-                                                            +8801775457008
+                                                            +8809648156713
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1189,19 +1189,17 @@
                                             <!-- <a href="https://deliverytiger.com.bd/privacypolicy.html" class="foot-title" target="_blank">পেমেন্ট ও প্রাইভেসি পলিসি </a> -->
                                             <div class="logo-wrap" style="padding: 10px;">
                                                 <span style="padding: 10px;font-weight: 500;">{{ __('theme_easyship::homepage.footer_download_app') }}</span><br />
-                                                <a href="#">
-                                                    <img src="static.ajkerdeal.com/images/dt/newlogin/google-play.webp" style="width: 140px; margin-top: 10px;" />
-                                                </a>
+                                            
                                             </div>
 
                                             <div class="social-btns">
-                                                <a href="https://www.facebook.com/elitedesignbd/">
+                                                <a href="#">
                                                     <img style="width:46px" src="static.ajkerdeal.com/images/dt/newlogin/facebook-icon.svg">
                                                 </a>
-                                                <a href="https://www.instagram.com/elitedesignbd/">
-                                                    <img style="width:50px;margin-left: 4%;margin-right: 4%;" src="static.ajkerdeal.com/images/dt/newlogin/instagram-icon.svg">
+                                                <a href="#">
+                                                      <img style="width:50px;margin-left: 4%;margin-right: 4%;" src="static.ajkerdeal.com/images/dt/newlogin/instagram-icon.svg">
                                                 </a>
-                                                <a href="https://www.youtube.com/channel/elitedesignbd">
+                                                <a href="#">
                                                     <img style="width:50px;" src="static.ajkerdeal.com/images/dt/newlogin/youtube-icon.svg">
                                                 </a>
                                             </div>

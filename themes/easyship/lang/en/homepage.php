@@ -55,7 +55,7 @@ return [
     'ajkerdeal_blog' => 'Ajkerdeal Blog',
     'deliverytiger_blog' => 'Deliverytiger Blog',
     'technical_support' => 'All Technical Support By:',
-    'elite_design' => 'Elite Design',
+    'elite_design' => 'TIC Limited',
 
     'sameday' => 'Same Day',
     'nextday' => 'Next Day',
