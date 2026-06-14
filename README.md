@@ -5,10 +5,6 @@ Algoriza Framework Description.
 ## Installation
 
 
-### Clone Repository
-```bash
-git clone https://github.com/ourcoteam/fr.git
-```
 
 ### Move to the newly created directory
 ```bash
