@@ -53,7 +53,7 @@
               </td>
               <td>
                 <span style="opacity: 0.8;">
-                  info@elitedesign.com.bd
+                  info@tic.com.bd
                 </span>
                 <br>
                 <span style="opacity: 0.6; font-size: 12px; margin-bottom: 15px; display: block">12345678</span>
@@ -68,7 +68,7 @@
                 <span id="login_employee" style="color: #EE6517; font-size: 13px; text-decoration: underline; margin-bottom: 15px; display: block;cursor: pointer;">{{ __('view.click_to_copy') }}</span>
               </td>
               <td>
-                employee@elitedesign.com.bd
+                employee@tic.com.bd
                 <br>
                 <span style="opacity: 0.6; font-size: 12px; margin-bottom: 15px; display: block">12345678</span>
               </td>
@@ -82,7 +82,7 @@
                 <span id="login_branch" style="color: #EE6517; font-size: 13px; text-decoration: underline; margin-bottom: 15px; display: block;cursor: pointer;">{{ __('view.click_to_copy') }}</span>
               </td>
               <td>
-                branch@elitedesign.com.bd
+                branch@tic.com.bd
                 <br>
                 <span style="opacity: 0.6; font-size: 12px; margin-bottom: 15px; display: block">12345678</span>
               </td>
@@ -96,7 +96,7 @@
                 <span id="login_driver" style="color: #EE6517; font-size: 13px; text-decoration: underline; margin-bottom: 15px; display: block;cursor: pointer;">{{ __('view.click_to_copy') }}</span>
               </td>
               <td>
-                driver@elitedesign.com.bd
+                driver@tic.com.bd
                 <br>
                 <span style="opacity: 0.6; font-size: 12px; margin-bottom: 15px; display: block">12345678</span>
               </td>
@@ -110,7 +110,7 @@
                 <span id="login_client" style="color: #EE6517; font-size: 13px; text-decoration: underline; margin-bottom: 15px; display: block;cursor: pointer;">{{ __('view.click_to_copy') }}</span>
               </td>
               <td>
-                client@elitedesign.com.bd
+                client@tic.com.bd
                 <br>
                 <span style="opacity: 0.6; font-size: 12px; margin-bottom: 15px; display: block">12345678</span>
               </td>
@@ -267,7 +267,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script type="text/javascript">
     function autoFill(){
-        $('#email').val('info@elitedesign.com.bd');
+        $('#email').val('info@tic.com.bd');
         $('#password').val('1234567878');
     }
 
@@ -278,27 +278,27 @@
         autoFill();
 
         $('body').on('click','#login_admin', function(e){
-          $('#email').val('info@elitedesign.com.bd');
+          $('#email').val('info@tic.com.bd');
           $('#password').val('12345678');
           $('#signin_submit').trigger('click');
         });
         $('body').on('click','#login_employee', function(e){
-          $('#email').val('employee@elitedesign.com.bd');
+          $('#email').val('employee@tic.com.bd');
           $('#password').val('12345678');
           $('#signin_submit').trigger('click');
         });
         $('body').on('click','#login_driver', function(e){
-          $('#email').val('driver@elitedesign.com.bd');
+          $('#email').val('driver@tic.com.bd');
           $('#password').val('12345678');
           $('#signin_submit').trigger('click');
         });
         $('body').on('click','#login_branch', function(e){
-          $('#email').val('branch@elitedesign.com.bd');
+          $('#email').val('branch@tic.com.bd');
           $('#password').val('12345678');
           $('#signin_submit').trigger('click');
         });
         $('body').on('click','#login_client', function(e){
-          $('#email').val('client@elitedesign.com.bd');
+          $('#email').val('client@tic.com.bd');
           $('#password').val('12345678');
           $('#signin_submit').trigger('click');
         });

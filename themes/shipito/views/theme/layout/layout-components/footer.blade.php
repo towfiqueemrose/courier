@@ -54,7 +54,7 @@
                     <div class="widget-social-links bdaia-social-io-colored">
                         <div class="bdaia-social-io bdaia-social-io-size-35">
                             @if($footer_setting['facebook_url'])
-                                <a style="color: inherit;" class="none bdaia-io-url-facebook" title="Facebook" href="{{$footer_setting['facebook_url']}}" target="_blank"><span class="bdaia-io bdaia-io-facebook"></span></a>
+                                <a style="color: inherit;" class="none bdaia-io-url-facebook" title="Facebook" href="#" target="_blank"><span class="bdaia-io bdaia-io-facebook"></span></a>
                             @endif
                             @if($footer_setting['twitter_url'])
                                 <a style="color: inherit;" class="none bdaia-io-url-twitter" title="Facebook" href="{{$footer_setting['twitter_url']}}" target="_blank"><span class="bdaia-io bdaia-io-twitter"></span></a>
@@ -66,7 +66,7 @@
                                 <a style="color: inherit;" class="none bdaia-io-url-dribbble" title="Facebook" href="{{$footer_setting['dribbble_url']}}" target="_blank"><span class="bdaia-io bdaia-io-dribbble"></span></a>
                             @endif
                             @if($footer_setting['youtube_url'])
-                                <a style="color: inherit;" class="none bdaia-io-url-youtube" title="Facebook" href="{{$footer_setting['youtube_url']}}" target="_blank"><span class="bdaia-io bdaia-io-youtube"></span></a>
+                                <a style="color: inherit;" class="none bdaia-io-url-youtube" title="Facebook" href="#" target="_blank"><span class="bdaia-io bdaia-io-youtube"></span></a>
                             @endif
                         </div>
                     </div>

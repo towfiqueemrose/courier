@@ -1213,7 +1213,7 @@
                         </div>
                     </div>
                 </div>
-				<div style="text-align: center;"><b><span style="color: white;">{{ __('theme_easyship::homepage.technical_support') }} </span><a href="https://www.elitedesign.com.bd" target="_blank"><span style="color: white;">{{ __('theme_easyship::homepage.elite_design') }}&nbsp;</span></a></b></div>
+				<div style="text-align: center;"><b><span style="color: white;">{{ __('theme_easyship::homepage.technical_support') }} </span><a href="https://tic.com.bd" target="_blank"><span style="color: white;">{{ __('theme_easyship::homepage.elite_design') }}&nbsp;</span></a></b></div>
 				</section>
 
         </div>
